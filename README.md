@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 
- I’m currently learning about Java at Generation Brasil Bootcamp
- Fun fact: I love travelling, working out and learning.
- Ask me about anything!
+*I’m currently learning about Java at Generation Brasil Bootcamp
+ 
+ 
+ *Fun fact: I love travelling, working out and learning.
+ 
+ 
+ *Ask me about anything!
  
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurirampazo&hide=html&layout=compact&theme=buefy" />
