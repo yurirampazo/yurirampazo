@@ -10,6 +10,8 @@
 
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=yurirampazo&theme=buefy"/>
+ 
+ ![](https://komarev.com/ghpvc/?username=your-github-yurirampazo)
 <!--
 **yurirampazo/yurirampazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
