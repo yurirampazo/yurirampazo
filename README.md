@@ -1,19 +1,22 @@
-### Hi there 👋
+### Hello World! 👋
 
 
-*I’m currently learning about Java at Generation Brasil Bootcamp*
-
+*I’m currently learning about Java at [Generation Brasil Bootcamp](https://brazil.generation.org/).*
 
 *Fun fact: I love travelling, working out and learning.*_  
  
- *Ask me about anything!*
+*Ask me about anything!*
  
+---
 
-### <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurirampazo&hide=html&layout=compact&theme=buefy" />
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurirampazo&hide=html&layout=compact&theme=buefy" />
 
 
- 
- ### ![](https://komarev.com/ghpvc/?username=your-github-yurirampazo)
+---
+
+
+![](https://komarev.com/ghpvc/?username=your-github-yurirampazo)
 <!--
 **yurirampazo/yurirampazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
