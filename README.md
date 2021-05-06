@@ -12,19 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 &nbsp; <b>Studying:</b> . 
-
-  
-
-###  :chart_with_upwards_trend: Languages and Tools:</summary>
-
-
-
-<p align="left">
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
-<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"/></code>
-</p>
 ### Hello World 👋
 
 ---
