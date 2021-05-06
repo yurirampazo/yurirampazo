@@ -29,8 +29,10 @@ Ask me about anything!
 
 <p align="left">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
-<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular"/></code>
+
 </p>
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurirampazo&hide=html&layout=compact&theme=buefy" />  
