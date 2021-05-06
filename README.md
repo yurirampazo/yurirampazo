@@ -12,18 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 &nbsp; <b>Studying:</b> . 
 
+  
+
+###  :chart_with_upwards_trend: Languages and Tools:</summary>
+
+
+
+<p align="left">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
+<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"/></code>
+</p>
 ### Hello World 👋
 
 ---
 
-*I’m currently learning about Java at [Generation Brasil Bootcamp](https://brazil.generation.org/).*
+I’m currently learning about Java, Spring Boot, HTML 5, CSS and Angular
 
-*Fun fact: I love travelling, working out and learning.* 
+Fun fact: I love travelling, working out and learning. 
  
-*Ask me about anything!*
+Ask me about anything!
  
 ---
+
+### Languages and Tools:</summary>
+
+
+<p align="left">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
+<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"/></code>
+</p>
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurirampazo&hide=html&layout=compact&theme=buefy" />  
 
