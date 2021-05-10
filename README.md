@@ -47,6 +47,3 @@ Find me at:
 
 <a href="yuri.rampazo@outlook.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:yuri.rampazo@outlook.com)  
 
----  
-
-![](https://komarev.com/ghpvc/?username=your-github-yurirampazo)
