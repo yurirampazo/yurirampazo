@@ -44,15 +44,6 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-<p align="left">
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"/></code>
-
-
-</p>
-
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurirampazo&hide=html&layout=compact&theme=buefy" />  
 
 ---
