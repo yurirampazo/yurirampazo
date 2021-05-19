@@ -24,9 +24,8 @@ Ask me about anything!
  
 ---
 
-### Technologies:</summary>
-<hr>
-## ⚡ Technologies
+## Technologies:
+
 
 These are some of the technologies and tools that I work with:
 
