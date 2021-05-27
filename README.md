@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ---
 
-I’m currently learning about Java, Spring Boot, HTML 5, CSS and Angular
+I’m currently learning about Java, Spring Boot, HTML 5, CSS3 and Angular
 
 Fun fact: I love travelling, working out and learning. 
  
