@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hello World 👋
 
----
-
-I’m currently learning about Java, Spring Boot, HTML 5, CSS3 and Angular
-
-Fun fact: I love travelling, working out and learning. 
  
 Ask me about anything!
  
