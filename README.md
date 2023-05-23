@@ -23,5 +23,5 @@ Find me at:
 
 <a href="https://www.linkedin.com/in/yuri-rampazo-20376616a/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/yuri-rampazo-20376616a/)  
 
-<a href="yuri.rampazo@outlook.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:yuri.rampazo@outlook.com)  
+<a href="ymrampazo@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:ymrampazo@gmail.com)  
 
