@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Find me at:  
 
 
-<a href="[https://www.linkedin.com/in/yuri-rampazo-20376616a/](https://www.linkedin.com/in/yurimrampazo/)"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn]([https://www.linkedin.com/in/yuri-rampazo-20376616a/](https://www.linkedin.com/in/yurimrampazo/))  
+<a href="https://www.linkedin.com/in/yuri-rampazo-20376616a/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/yuri-rampazo-20376616a/)  
 
 <a href="ymrampazo@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:ymrampazo@gmail.com)  
 
