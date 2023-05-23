@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hello World 👋
 
- 
-Ask me about anything!
- 
-
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurirampazo&hide=html&layout=compact&theme=buefy" />  
 
 ---
